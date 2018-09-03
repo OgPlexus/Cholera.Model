@@ -1,1 +1,1 @@
-# Cholera.Model
+# Disease.Models
